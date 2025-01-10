@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://github.com/realgetOff/main/blob/main/Header/Black%20Yellow%20Bold%20Bag%20Fashion%20Sale%20Banner%20(2).png">
+  <img src="https://github.com/realgetOff/main/blob/main/Header/minitalk.png">
 </p>
 
 <p align="center">
 	<img src="https://img.shields.io/badge/status-finished-cyan"/>
-	<img src="https://img.shields.io/badge/evaluated-31%20%2F%2010%20%2F%202024-cyan"/>
+	<img src="https://img.shields.io/badge/evaluated-10%20%2F%2001%20%2F%202025-cyan"/>
 	<img src="https://img.shields.io/badge/score-125%2F100-cyan"/>
-	<img src="https://img.shields.io/badge/language-C_90.8%25-cyan"/>
+	<img src="https://img.shields.io/badge/language-C_92.7%25-cyan"/>
 	<img src="https://img.shields.io/badge/last_commit-january-cyan"/>
 	<a href='https://profile.intra.42.fr/users/mforest-' target="_blank"><img alt='42' src='https://img.shields.io/badge/Intra-100000?style=flat-round&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
 </p>
